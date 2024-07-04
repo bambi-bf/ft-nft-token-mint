@@ -1,0 +1,27 @@
+{
+  "name": "Theory of Gravity",
+  "description": "Game Theory programable NFT!",
+  "image": "https://ipfs.io/ipfs/Qmbci7ztQq7EmjsdWnxPhY117Y7yrh2MfujKSt8rT6Rg2V",
+  "attributes": [
+    {
+      "trait_type": "Skins",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Orange"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://ipfs.io/ipfs/Qmbci7ztQq7EmjsdWnxPhY117Y7yrh2MfujKSt8rT6Rg2V"
+      }
+    ]
+  }
+}
